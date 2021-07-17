@@ -1,0 +1,2 @@
+# golesson
+GOの練習
